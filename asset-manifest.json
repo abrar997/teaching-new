@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/teaching-new/static/css/main.76278894.chunk.css",
+    "main.js": "/teaching-new/static/js/main.7a4d85e3.chunk.js",
+    "main.js.map": "/teaching-new/static/js/main.7a4d85e3.chunk.js.map",
+    "runtime-main.js": "/teaching-new/static/js/runtime-main.b802a058.js",
+    "runtime-main.js.map": "/teaching-new/static/js/runtime-main.b802a058.js.map",
+    "static/js/2.5da82d4a.chunk.js": "/teaching-new/static/js/2.5da82d4a.chunk.js",
+    "static/js/2.5da82d4a.chunk.js.map": "/teaching-new/static/js/2.5da82d4a.chunk.js.map",
+    "index.html": "/teaching-new/index.html",
+    "static/css/main.76278894.chunk.css.map": "/teaching-new/static/css/main.76278894.chunk.css.map",
+    "static/js/2.5da82d4a.chunk.js.LICENSE.txt": "/teaching-new/static/js/2.5da82d4a.chunk.js.LICENSE.txt",
+    "static/media/1.13d1dd7f.png": "/teaching-new/static/media/1.13d1dd7f.png",
+    "static/media/1.2a2d10db.png": "/teaching-new/static/media/1.2a2d10db.png",
+    "static/media/1.4b6882f6.png": "/teaching-new/static/media/1.4b6882f6.png",
+    "static/media/1.590c7b66.webp": "/teaching-new/static/media/1.590c7b66.webp",
+    "static/media/1.858c614d.png": "/teaching-new/static/media/1.858c614d.png",
+    "static/media/2.36e574e1.jpg": "/teaching-new/static/media/2.36e574e1.jpg",
+    "static/media/3.82a00834.jpg": "/teaching-new/static/media/3.82a00834.jpg",
+    "static/media/3.8f8a2185.png": "/teaching-new/static/media/3.8f8a2185.png",
+    "static/media/4.759c868a.jpg": "/teaching-new/static/media/4.759c868a.jpg",
+    "static/media/4.b9b4dde2.jpg": "/teaching-new/static/media/4.b9b4dde2.jpg",
+    "static/media/5.3f61c50b.jpg": "/teaching-new/static/media/5.3f61c50b.jpg",
+    "static/media/6.246f8ed5.jpg": "/teaching-new/static/media/6.246f8ed5.jpg",
+    "static/media/7.35d0e6c6.jpg": "/teaching-new/static/media/7.35d0e6c6.jpg",
+    "static/media/back.2fcbdb9d.jpg": "/teaching-new/static/media/back.2fcbdb9d.jpg",
+    "static/media/back.ea44d003.png": "/teaching-new/static/media/back.ea44d003.png",
+    "static/media/backleft.1af3614a.jpg": "/teaching-new/static/media/backleft.1af3614a.jpg",
+    "static/media/backleft.2fcbdb9d.jpg": "/teaching-new/static/media/backleft.2fcbdb9d.jpg",
+    "static/media/NextStep.css": "/teaching-new/static/media/bg1.eb2a081d.png",
+    "static/media/img1.869535ae.jpg": "/teaching-new/static/media/img1.869535ae.jpg",
+    "static/media/intro.9aebbe7f.mp4": "/teaching-new/static/media/intro.9aebbe7f.mp4",
+    "static/media/phone.53e1116d.png": "/teaching-new/static/media/phone.53e1116d.png",
+    "static/media/video.88a82574.mp4": "/teaching-new/static/media/video.88a82574.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b802a058.js",
+    "static/js/2.5da82d4a.chunk.js",
+    "static/css/main.76278894.chunk.css",
+    "static/js/main.7a4d85e3.chunk.js"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "Adope": [
+    {
+      "courseNum": "week  1",
+      "name": "Introducing adobe programmes ",
+      "time": "3 hours to complete ",
+      "contain": "3 videos (Total 15 min), 2 readings",
+      "video": "src/component/AllCourses/AdopePhote/AdobeImage&video/intro.mp4",
+      "p": "This module provides you with an understanding of the first step in any design innovation project, which we refer to as design thinking. We discuss its role in the human-centred design process and how it relates to innovation. The module will also examine some of the tools used to collect data about users and customers. Industry experts explain the role of this step and the methods they use through concrete case studies."
+    },
+    {
+      "courseNum": "week  2",
+      "name": "start design",
+      "time": "3 hours to complete",
+      "contain": "3 videos (Total 15 min), 2 readings",
+      "video": "src/component/AllCourses/AdopePhote/AdobeImage&video/intro.mp4",
+      "p": "This module provides you with an understanding of the first step in any design innovation project, which we refer to as design thinking. We discuss its role in the human-centred design process and how it relates to innovation. The module will also examine some of the tools used to collect data about users and customers. Industry experts explain the role of this step and the methods they use through concrete case studies."
+    },
+    {
+      "courseNum": "week  3",
+      "name": "How to be proffissional in your work and how marketing your work",
+      "contain": "3 videos (Total 15 min), 2 readings",
+      "time": "3 hours to complete",
+      "video": "src/component/AllCourses/AdopePhote/AdobeImage&video/intro.mp4",
+      "p": "This module provides you with an understanding of the first step in any design innovation project, which we refer to as design thinking. We discuss its role in the human-centred design process and how it relates to innovation. The module will also examine some of the tools used to collect data about users and customers. Industry experts explain the role of this step and the methods they use through concrete case studies."
+    }
+  ],
+  "problemss": [
+    {
+      "courseNum": "week  1",
+      "name": "Foundations of Computational Thinking ",
+      "time": "2 hours to complete",
+      "contain": "3 videos (Total 15 min), 2 readings",
+      "videos": "src/component/AllCourses/ProblemDay/ProblemDayimage/video.mp4"
+    },
+    {
+      "courseNum": "week  1",
+      "name": "Case Study: Airport Surveillance and Image Analysis",
+      "time": "2 hours to complete",
+      "contain": "3 videos (Total 15 min), 2 readings",
+      "videos": "src/component/AllCourses/ProblemDay/ProblemDayimage/video.mp4"
+    },
+    {
+      "courseNum": "week  1",
+      "name": "Case Study: Epidemiology",
+      "time": "2 hours to complete",
+      "contain": "3 videos (Total 15 min), 2 readings",
+      "videos": "src/component/AllCourses/ProblemDay/ProblemDayimage/video.mp4"
+    }
+  ]
+}
