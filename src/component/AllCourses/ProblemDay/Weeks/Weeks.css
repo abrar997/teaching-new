@@ -1,0 +1,54 @@
+/* color: rgb(16, 16, 151);
+  font-family: "Playfair Display", serif;
+  color:rgb(230, 103, 124);
+ */
+
+.probl .container .row h1 {
+  text-align: center;
+  margin-top: 100px;
+  color: rgb(16, 16, 151);
+  font-family: "Playfair Display", serif;
+}
+
+.probl .container .row .listlesson .week {
+  background-color: #eee;
+  width: 100%;
+  padding: 5px;
+  margin-top: 30px;
+}
+
+.probl .container .row .listlesson .week h3 {
+  text-align: center;
+  color: rgb(16, 16, 151);
+  text-transform: capitalize;
+}
+
+.probl .container .row .listlesson .text {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.probl .container .row .listlesson .text h2 {
+  margin-top: 10px;
+  color: rgb(230, 103, 124);
+  text-transform: capitalize;
+  font-size: 24px;
+}
+
+.probl .container .row .listlesson .text svg {
+  background-color: rgb(230, 103, 124);
+  color: white;
+  padding: 5px;
+  border-radius: 50%;
+}
+.probl .container .row .listlesson .text h5 {
+  font-size: 18px;
+  color: gray;
+  margin-top: 30px;
+}
+
+.probl .container .row .listlesson .text h4 {
+  font-size: 18px;
+  color: rgb(16, 16, 151);
+  margin-top: -10px;
+}

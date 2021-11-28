@@ -1,0 +1,116 @@
+.inday {
+  margin-bottom: 100px;
+}
+.inday .container .row span {
+  color: rgb(230, 103, 124);
+  text-align: center;
+  font-family: "Playfair Display", serif;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.inday .container .row h1 {
+  color: rgb(16, 16, 151);
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+.inday .container .row p {
+  color: rgb(230, 103, 124);
+  text-align: center;
+  font-weight: 600;
+}
+
+.inday .container .row .cards {
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
+  margin-top: 40px;
+}
+.inday .container .row .cards .card {
+  padding: 20px;
+  margin-left: 10px;
+  text-align: center;
+  height: 400px;
+  width: 350px;
+}
+
+.inday .container .row .cards .card img {
+  width: 200px;
+  height: 200px;
+  margin: auto;
+}
+/* name */
+.inday .container .row .cards .card h3 {
+  color: rgb(16, 16, 151);
+  font-size: 20px;
+  text-transform: capitalize;
+  margin-top: 30px;
+}
+
+/* price */
+.inday .card span:nth-child(1) {
+  color: rgb(230, 103, 124);
+}
+
+.inday .card span:nth-child(2) {
+  color: gray;
+  margin-left: 5px;
+  font-size: 15px;
+}
+
+/* view */
+.inday .card h4 {
+  background: gray;
+  color: white;
+  width: 60px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  font-size: 15px;
+  font-family: "Playfair Display", serif;
+}
+
+.inday .card .btn {
+  background: rgb(230, 103, 124);
+  border: none;
+  text-transform: capitalize;
+  font-weight: 600;
+  margin: auto;
+  color: white;
+  margin-top: 30px;
+  width: 140px;
+  font-family: "Playfair Display", serif;
+}
+.inday .card .btn:hover {
+  background: rgb(158, 32, 53);
+}
+
+.inday .carou .buttons {
+  margin-top: 40px;
+  margin-left: 590px;
+}
+.inday .buttons button {
+  background: rgb(230, 103, 124);
+  color: white;
+  border: none;
+  padding: 10px;
+  margin-left: 10px;
+}
+.inday .buttons button:hover {
+  background: rgb(158, 32, 53);
+}
+.inday .xxxx {
+  color: rgb(16, 16, 151);
+  width: 80px;
+  height: 40px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 16px;
+  font-weight: 600;
+  background: transparent;
+  border: none;
+  margin-left: -25px;
+  margin-top: -10px;
+}

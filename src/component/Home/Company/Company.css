@@ -1,0 +1,25 @@
+.company {
+  background: rgb(248, 246, 246);
+  height: 300px;
+  margin-bottom: 60px;
+}
+
+.company .container .row {
+  margin-top: 160px;
+  text-align: center;
+}
+
+.company .container .row h1 {
+  color: rgb(16, 16, 151);
+  text-transform: capitalize;
+  font-size: 30px;
+  margin-top: 80px;
+}
+.company .container .row h1 span {
+  color: rgb(230, 103, 124);
+}
+.company .container .row img {
+  margin-left: 30px;
+  margin-top: 50px;
+  cursor: pointer;
+}

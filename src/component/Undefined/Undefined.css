@@ -1,0 +1,27 @@
+.ssshshh img {
+  margin-top: -270px;
+}
+.container .row .gif img {
+  margin: auto;
+  margin-top: -270px;
+  margin-left: 250px;
+}
+.gif .text {
+  box-shadow: 1px 1px 18px rgb(212, 211, 211);
+  margin-top: 10px;
+  text-align: center;
+}
+.gif .text h1 {
+  color: rgb(76, 76, 250);
+  text-transform: capitalize;
+  /* color: rgb(230, 103, 124); */
+  text-align: center;
+}
+
+.gif .text p {
+  font-size: 17px;
+  margin-top: 10px;
+  color: rgb(230, 103, 124);
+  text-transform: capitalize;
+  font-weight: 600;
+}

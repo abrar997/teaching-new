@@ -1,0 +1,104 @@
+.free {
+  margin-top: 800px;
+  margin-bottom: 100px;
+}
+.free .container .row h5 {
+  color: rgb(230, 103, 124);
+  text-align: center;
+  font-family: "Playfair Display", serif;
+  font-weight: 600;
+}
+.free .container .row h1 {
+  color: rgb(16, 16, 151);
+  text-align: center;
+}
+
+.free .container .row p {
+  color: rgb(230, 103, 124);
+  text-align: center;
+  font-weight: 600;
+  margin-top: 10px;
+}
+.free .container .row .Cards {
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
+}
+
+.free .container .row .Cards .card {
+  width: 320px;
+  height: 380px;
+  padding: 30px;
+  margin-left: 15px;
+  margin-top: 70px;
+  text-align: center;
+}
+.free .container .row .Cards .card:hover {
+  box-shadow: 1px 1px 17px rgb(219, 216, 216);
+}
+
+.free .container .row .Cards .card img {
+  width: 80%;
+  height: 50%;
+  margin: auto;
+}
+.free .container .row .Cards .card h4 {
+  color: rgb(16, 16, 151);
+  text-transform: capitalize;
+  margin-top: 10px;
+  /* letter-spacing: 2px; */
+  font-size: 18px;
+}
+
+.free .container .row .Cards .card h6 {
+  color: gray;
+  font-size: 12px;
+  /* font-family: "Playfair Display", serif; */
+  margin-top: 10px;
+}
+
+.free .container .row .Cards .card p {
+  background: rgb(230, 103, 124);
+  color: white;
+  width: 60px;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.free .container .row .Cards .card .btn {
+  background: transparent;
+  border: none;
+}
+.free .container .row .Cards .card button {
+  background: rgb(230, 103, 124);
+  border: none;
+  text-transform: capitalize;
+  font-weight: 600;
+  margin: auto;
+  color: white;
+  margin-top: 30px;
+  width: 140px;
+  font-family: "Playfair Display", serif;
+  padding: 5px;
+  border-radius: 4px;
+}
+.free .container .row .Cards .card button:hover {
+  background: rgb(158, 32, 53);
+}
+.free .container .row .buttons {
+  margin: auto;
+  margin-top: 50px;
+  margin-left: 580px;
+}
+
+.free .container .row .buttons button {
+  background: rgb(230, 103, 124);
+  color: white;
+  border: none;
+  padding: 10px;
+  margin-left: 10px;
+}
+
+.free .container .row .buttons button:hover {
+  background: rgb(158, 32, 53);
+}

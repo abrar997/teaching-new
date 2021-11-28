@@ -1,0 +1,35 @@
+.mind .container .row {
+  box-shadow: 1px 1px 11px gray;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  text-align: center;
+  padding: 30px;
+}
+
+.mind .container .row h1 {
+  color: rgb(230, 103, 124);
+  text-transform: capitalize;
+  font-family: "Playfair Display", serif;
+  margin-bottom: 20px;
+}
+
+.mind .container .row p {
+  color: gray;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+.mind .container .row .btn {
+  background: rgb(230, 103, 124);
+  color: white;
+  font-family: "Playfair Display", serif;
+  font-weight: bolder;
+  margin-bottom: 20px;
+  width: 170px;
+  font-size: 17px;
+  margin-top: 20px;
+  text-transform: capitalize;
+}
+
+.mind .container .row .btn:hover {
+  background: rgb(158, 32, 53);
+}

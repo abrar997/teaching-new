@@ -1,0 +1,96 @@
+.formaa .image {
+  margin-top: 300px;
+}
+.formaa .image img {
+  width: 99%;
+  margin-left: 60px;
+}
+.formaa h1 {
+  text-align: center;
+  color: rgb(16, 16, 151);
+  text-transform: capitalize;
+  font-family: "Playfair Display", serif;
+  background: #eee;
+}
+
+.formaa form {
+  width: 700px;
+  color: rgb(16, 16, 151);
+  margin-top: 50px;
+  box-shadow: 1px 1px 19px rgba(216, 213, 213, 0.932);
+  padding: 30px;
+  display: flex;
+  flex-flow: row wrap;
+  padding-bottom: 160px;
+}
+
+.form-row {
+  margin-top: 30px;
+}
+.form-row {
+  display: flex;
+  flex-flow: row;
+  justify-content: space-around;
+}
+.form-row > div {
+  width: 200px;
+  margin: auto;
+  margin-left: 10px;
+}
+
+.formaa form input {
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid gray;
+  margin: auto;
+  height: 30px;
+  margin-top: 10px;
+  outline: none;
+  color: rgb(230, 103, 124);
+}
+
+.formaa form label {
+  color: rgb(16, 16, 151);
+  text-transform: capitalize;
+  margin-left: 20px;
+  font-weight: 600;
+  font-size: 20px;
+  font-family: "Playfair Display", serif;
+}
+
+.option select {
+  background: transparent;
+  color: rgb(16, 16, 151);
+  border: none;
+  border-bottom: 1px solid gray;
+  margin: auto;
+}
+
+.formaa button {
+  background-color: rgb(230, 103, 124);
+  color: white;
+  border: none;
+  border-radius: 30px;
+  margin: auto;
+  margin-bottom: -70px;
+  margin-left: -620px;
+  width: 160px;
+  padding: 5px;
+  text-transform: capitalize;
+}
+
+.formaa button:hover {
+  background: transparent;
+  border: 1px solid gray;
+  color: rgb(230, 103, 124);
+}
+
+.note {
+  margin-top: 60px;
+}
+
+.formaa img {
+  width: 300px;
+  margin-top: -210px;
+  margin-left: 100px;
+}

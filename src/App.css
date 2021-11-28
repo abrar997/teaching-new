@@ -1,0 +1,72 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap");
+
+/* nav */
+nav {
+  font-family: "Playfair Display", serif;
+}
+
+/* nav brand (logo) */
+nav .navbar-brand {
+  color: rgb(16, 16, 151);
+  font-weight: 600;
+  font-size: 22px;
+  text-transform: capitalize;
+}
+nav .navbar-brand:hover {
+  color: rgb(16, 16, 151);
+}
+
+nav .navbar-brand span {
+  color: rgb(230, 103, 124);
+  font-size: 26px;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+nav .form-control {
+  margin-left: 300px;
+  border: none;
+  border: 1px solid rgb(230, 103, 124);
+  width: 400px;
+}
+nav form .btn {
+  border: none;
+  margin-left: -45px;
+  color: white;
+  background: rgb(230, 103, 124);
+}
+nav form .btn:hover {
+  background: rgb(230, 103, 124);
+  color: white;
+}
+
+nav .collapse {
+  margin-left: 140px;
+}
+
+nav .collapse .nav-item .nav-link {
+  font-size: 22px;
+  color: rgb(9, 9, 151);
+  font-weight: 600;
+  width: 100px;
+  line-height: 100px;
+}
+
+.nav-item:before {
+  content: "";
+  position: absolute;
+  width: 90px;
+  height: 3px;
+  bottom: 0;
+  background: rgb(230, 103, 124);
+  visibility: hidden;
+  border-radius: 5px;
+  transform: scaleX(0);
+  transition: 0.25s linear;
+  top: 90px;
+  margin-left: px;
+}
+.nav-item:hover:before,
+.nav-item:focus:before {
+  visibility: visible;
+  transform: scaleX(1);
+}

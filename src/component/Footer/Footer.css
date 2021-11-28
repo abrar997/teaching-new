@@ -1,0 +1,61 @@
+footer {
+  margin-top: 100px;
+  border-top: 1px solid gray;
+}
+#button-addon1 {
+  color: rgb(230, 103, 124);
+}
+
+i {
+  font-family: "Playfair Display", serif;
+}
+
+.form-control::placeholder {
+  font-size: 0.95rem;
+  color: rgb(230, 103, 124);
+  font-style: italic;
+}
+
+.form-control.shadow-0:focus {
+  box-shadow: none;
+}
+footer h6 {
+  color: rgb(16, 16, 151);
+  font-family: "Playfair Display", serif;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+footer ul li a {
+  text-decoration: none;
+  color: gray;
+  font-weight: 600;
+}
+footer ul li a:hover {
+  color: rgb(230, 103, 124);
+}
+footer .copyright {
+  margin: auto;
+  color: rgb(230, 103, 124);
+  text-align: center;
+  margin-top: 80px;
+  word-spacing: 3px;
+}
+
+footer .copyright span {
+  color: rgb(255, 167, 5);
+}
+
+footer .logo h1 {
+  margin-top: -1px;
+  font-weight: 600;
+  color: rgb(16, 16, 151);
+  font-family: "Playfair Display", serif;
+}
+footer .logo h1 span {
+  color: rgb(230, 103, 124);
+}
+
+footer p {
+  font-weight: 600;
+}

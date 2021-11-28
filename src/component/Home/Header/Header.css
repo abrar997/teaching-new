@@ -1,0 +1,50 @@
+header .imglef {
+  margin-top: -360px;
+  margin-left: -100px;
+}
+header .imglef img {
+  height: 600px;
+}
+
+header .container .row .text h1 {
+  color: rgb(16, 16, 151);
+  text-transform: uppercase;
+  font-size: 40px;
+}
+
+header .container .row .text p {
+  color: rgb(230, 103, 124);
+  font-weight: 600;
+  text-transform: capitalize;
+  /* font-family: "Playfair Display", serif; */
+  font-size: 18px;
+}
+
+header .container .row {
+  margin-top: -00px;
+}
+
+header .container .row .image {
+  margin-top: -220px;
+}
+
+header .container .row .buttons {
+  margin-top: -250px;
+}
+header .container .row .buttons button {
+  background: rgb(5, 5, 78);
+  border: none;
+  color: white;
+  padding: 20px;
+  margin-right: 10px;
+  text-transform: capitalize;
+  font-size: 18px;
+  border-radius: 10px;
+}
+
+header .container .row .buttons button:hover {
+  background: transparent;
+  color: rgb(16, 16, 151);
+  border: 2px solid rgb(230, 103, 124);
+  font-weight: 600;
+}

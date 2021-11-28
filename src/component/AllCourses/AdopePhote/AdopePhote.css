@@ -1,0 +1,69 @@
+.Adobe {
+  background: rgb(255, 247, 248);
+  height: 680px;
+}
+.Adobe .container .row h1 {
+  color: rgb(16, 16, 151);
+  text-transform: capitalize;
+  margin-top: 60px;
+  font-size: 39px;
+  font-family: "Playfair Display", serif;
+  border-bottom: 3px solid rgb(230, 103, 124);
+  width: 340px;
+  padding-bottom: 15px;
+  display: none;
+}
+
+.Adobe .content {
+  display: flex;
+  flex-flow: row;
+  justify-content: space-around;
+  margin-top: 100px;
+}
+
+.Adobe .content video {
+  width: 600px;
+  height: 400px;
+  margin-top: 0px;
+  margin-left: -100px;
+  box-shadow: 1px 1px 12px rgb(177, 175, 175);
+}
+.Adobe .content .text {
+  margin-top: 100px;
+}
+.Adobe .content .text h3 {
+  font-size: 30px;
+  text-align: center;
+  text-transform: capitalize;
+  font-family: "Playfair Display", serif;
+  color: rgb(16, 16, 151);
+  font-weight: 600;
+}
+.Adobe .content .text p {
+  text-transform: capitalize;
+  color: gray;
+  text-align: center;
+  font-weight: 600;
+  line-height: 39px;
+}
+
+.Adobe .content .text .btn {
+  margin: auto;
+  background-color: rgb(230, 103, 124);
+  color: white;
+  width: 140px;
+  font-size: 20px;
+  font-family: "Playfair Display", serif;
+  text-transform: capitalize;
+  margin-left: 260px;
+}
+
+.Adobe .content .text .btn:hover {
+  background-color: rgb(199, 69, 90);
+}
+
+.Adobe img {
+  width: 300px;
+  margin-top: -210px;
+  margin-left: 100px;
+}
